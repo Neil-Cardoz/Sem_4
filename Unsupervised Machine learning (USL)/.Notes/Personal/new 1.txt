@@ -1,0 +1,14 @@
+local outlier and global outlier
+
+DBSCAN 
+
+Highly imbalanced :- SMOTE
+
+standardization
+
+covariance matrix
+
+Singular value decomposition
+
+Identity decomposition
+

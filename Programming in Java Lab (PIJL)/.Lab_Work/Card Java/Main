@@ -1,0 +1,15 @@
+//Main.java
+
+import java.util.*
+
+public static void main(String args[]){
+	create deck = new Deck();
+	System.out.println("----------Creating Deck-----------");
+	deck.createDeck();
+	System.out.println("----------Displaying Deck-----------");
+	deck.displayDeck()
+	System.out.println("----------Shuffling Deck-----------");
+	deck.shuffleDeck();
+	System.out.println("----------Displaying Deck-----------");
+	deck.displayDeck();
+}

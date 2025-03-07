@@ -1,0 +1,16 @@
+x,y
+vif(highly correlated)
+train_test
+fit(train)
+predict(test)
+coefficients
+test predict
+r2,mae,mse
+scatter
+
+
+
+
+
+
+

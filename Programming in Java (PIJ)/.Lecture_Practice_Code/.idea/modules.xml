@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.Lecture_Practice_Code.iml" filepath="$PROJECT_DIR$/.Lecture_Practice_Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandlingEx1/ExceptionHandlingEx1.iml" filepath="$PROJECT_DIR$/ExceptionHandlingEx1/ExceptionHandlingEx1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trying for Person/Trying for Person.iml" filepath="$PROJECT_DIR$/Trying for Person/Trying for Person.iml" />
+    </modules>
+  </component>
+</project>
