@@ -1,0 +1,5 @@
+Siluhette Score          | Required Ground Truth
+
+Rand Index ( numbers ) | Required Ground Truth
+
+Updated/Adjusted Rand Index | Required Ground Truth
