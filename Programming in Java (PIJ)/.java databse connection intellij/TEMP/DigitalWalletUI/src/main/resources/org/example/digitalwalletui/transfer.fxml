@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<VBox spacing="10" alignment="CENTER" xmlns:fx="http://javafx.com/fxml" fx:controller="TransferController">
+    <Label text="Send Money via UPI" style="-fx-font-size: 18;" />
+    <TextField fx:id="amountField" promptText="Enter Amount (₹)" />
+    <Button fx:id="sendButton" text="Send Money" onAction="#handleSend" />
+    <ProgressBar fx:id="progressBar" visible="false" prefWidth="200" />
+</VBox>
